@@ -1,7 +1,7 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@rishabkumar7",
-  siteTitle: "Rishab Kumar | Portfolio",
+  siteTitle: "Vlad Alieiev | Portfolio",
   siteShortTitle: "Rishab", // Used as logo text in header, footer, and splash screen
   siteDescription: "This is the portfolio site for Rishab Kumar.",
   siteUrl: "https://rishabkumar.com/",
